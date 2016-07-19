@@ -1,0 +1,87 @@
+Meetings
+
+First planning meeting: Friday 27th November
+
+Tasks for this week
+- Create Android Project files and set up phase 2 algorithms (Vladimir)
+- Improve algorithms for searching itineraries and implement booking itineraries (Ivan)
+- Improve and add to CRC cards (Raymond)
+
+Status meeting: Saturday 28th November
+
+Ivan:
+- continue implementing booking itineraries
+- continue improving searching algorithm
+Raymond:
+- continue working on CRC cards
+Vladimir:
+- created android studio project using our phase 2 code
+- begin designing login screen
+
+Status meeting: Monday 30th November
+
+Ivan:
+- Improved searching algorithm
+- Postpone booking implementation
+- Figure out a class to implement from backend into app
+Raymond:
+- Improved CRC cards
+- Implement file saving and uploading for app
+Vladimir:
+- designed login screen
+- Implement activites for client and admin
+
+Mid-way planning meeting: Thursday 3rd December
+
+Current state of the project:
+Done:
+- Implemented User and User Information into app
+- Implemented viewing and editing client information 
+- Implemented writing user information to file
+- Implemented uploading passwords and clients into app
+- Designed client and admin screens
+Almost Done:
+- activity for admin
+
+Tasks for this week:
+- Implement a client manager (Raymond)
+- Implement admin class and activity (Ivan)
+- design screens for booking and displaying itineraries (Vladimir)
+
+Status meeting: Saturday 5th December
+
+Ivan:
+- designed main admin activity
+- still implenting admin class
+Raymond:
+- made a client manager
+- still need to implement into app
+Vladimir:
+- Still designing screens for booking and displaying itineraries
+
+Status meeting Sunday 6th December
+
+Ivan:
+- implemented admin editing a clients information
+- implemented admin editing a flights information
+- still implementing admin uploading data
+- still implementing admin booking itinerary for client
+Raymond:
+- Implemented booking itineraries for client
+- helped implement searching flights
+- still need to implement client manager into app
+Vladimir:
+- helped implement searching flights
+- almost done implementing screens for displaying and selecting itineraries
+
+Status meeting Tuesday 8th December
+
+Ivan:
+- fully implemented admin section of app
+- fixed bug with booking itineraries
+Raymond:
+- fully implemented managers into app
+Vladimir:
+- finished implementing displaying and selecting itineraries
+- finished implemented view details of a selected itinerary
+
